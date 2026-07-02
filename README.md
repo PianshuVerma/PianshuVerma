@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=PianshuVerma&label=Profile%20views&color=0e75b6&style=flat" alt="PianshuVerma" />
 </p>
 
-- 🌱 I’m currently learning **Advanced MERN Stack, Data Structures & Algorithms**
+- 🌱 I’m currently learning **Advanced MERN Stack and cloud**
 - 💻 I specialize in **Full Stack Web Development**
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, REST APIs, and Git/GitHub**
 - 📫 How to reach me: **pianshuvermamains@gmail.com**
