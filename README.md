@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pianshu Verma</h1>
 <h3 align="center">A passionate Computer Science student and MERN Stack Developer from India 🇮🇳</h3>
 
+---
 
 - 🌱 I’m currently learning **Full Stack Web Development And Cloud**
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, REST APIs, and Git/GitHub**
+- - 👨‍💻 Explore all my projects: **[github.com/PianshuVerma](https://github.com/PianshuVerma)**
 - 📫 How to reach me: **pianshuvermamains@gmail.com**
 - ⚡ Fun fact: **I enjoy building projects and learning new technologies**
 
@@ -30,27 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=PianshuVerma&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PianshuVerma" alt="streak" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PianshuVerma&layout=compact" alt="languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PianshuVerma)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 💻 Tech Stack
 
