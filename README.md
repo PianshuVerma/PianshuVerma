@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development And Cloud**
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, REST APIs, and Git/GitHub**
-- - 👨‍💻 Explore all my projects: **[github.com/PianshuVerma](https://github.com/PianshuVerma)**
+- 👨‍💻 All of my projects are available at **https://github.com/PianshuVerma**
 - 📫 How to reach me: **pianshuvermamains@gmail.com**
 - ⚡ Fun fact: **I enjoy building projects and learning new technologies**
 
