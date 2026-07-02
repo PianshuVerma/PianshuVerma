@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pianshu Verma</h1>
 <h3 align="center">A passionate Computer Science student and MERN Stack Developer from India 🇮🇳</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PianshuVerma&label=Profile%20views&color=0e75b6&style=flat" alt="PianshuVerma" />
-</p>
 
-- 🌱 I’m currently learning **Advanced MERN Stack and cloud**
-- 💻 I specialize in **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development And Cloud**
 - 💬 Ask me about **MongoDB, Express.js, React.js, Node.js, JavaScript, REST APIs, and Git/GitHub**
 - 📫 How to reach me: **pianshuvermamains@gmail.com**
 - ⚡ Fun fact: **I enjoy building projects and learning new technologies**
