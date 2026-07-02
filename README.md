@@ -20,6 +20,9 @@
 <a href="https://github.com/PianshuVerma" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+<a href="https://instagram.com/Pianshu_verma" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" height="40"/>
+</a>
 </p>
 
 ---
